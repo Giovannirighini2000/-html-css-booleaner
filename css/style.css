@@ -1,0 +1,13 @@
+#logo{height: 30px;
+    
+    padding-top: 70px;
+    padding-left: 100px;
+    
+    
+}
+.container{
+    background-image: url(../img/pattern.png);   
+    background-color: blue;   
+    height: 100px;
+    background-size: auto;
+}
