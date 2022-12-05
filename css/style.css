@@ -9,5 +9,16 @@
     background-image: url(../img/pattern.png);   
     background-color: blue;
     background-size: 150px;
-    background-size: contain;    
+    background-size: contain;
+
+        
+}
+h1{
+    font-size: 50px;
+}
+.font{
+    font-style: inherit;
+}
+#coloretesto{
+    color: aqua;
 }
