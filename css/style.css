@@ -1,4 +1,4 @@
-#logo{height: 30px;
+#logo{height: 60px;
     
     padding-top: 70px;
     padding-left: 100px;
@@ -7,7 +7,7 @@
 }
 .container{
     background-image: url(../img/pattern.png);   
-    background-color: blue;   
-    height: 100px;
-    background-size: auto;
+    background-color: blue;
+    background-size: 150px;
+    background-size: contain;    
 }
